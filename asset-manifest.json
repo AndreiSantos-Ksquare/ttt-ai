@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ttt-ai/static/css/main.1dafaeaf.css",
+    "main.js": "/ttt-ai/static/js/main.bdadec7a.js",
+    "static/js/787.cf2d7945.chunk.js": "/ttt-ai/static/js/787.cf2d7945.chunk.js",
+    "index.html": "/ttt-ai/index.html",
+    "main.1dafaeaf.css.map": "/ttt-ai/static/css/main.1dafaeaf.css.map",
+    "main.bdadec7a.js.map": "/ttt-ai/static/js/main.bdadec7a.js.map",
+    "787.cf2d7945.chunk.js.map": "/ttt-ai/static/js/787.cf2d7945.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dafaeaf.css",
+    "static/js/main.bdadec7a.js"
+  ]
+}
